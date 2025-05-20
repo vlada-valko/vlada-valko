@@ -61,5 +61,5 @@
 
 <br />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vlada-valko&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vlada-valko&theme=default)
 
